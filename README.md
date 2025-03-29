@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Graduated from PICT, Pune with a 9.20 CGPA in E&TC engineering. I'm well-versed in MERN stack, C++, DSA, OOPS, DBMS, and OS, but I'm not afraid to step outside of my comfort zone and learn new things.</h3>
+<h3 align="center">Graduated from PICT, Pune with a 9.20 CGPA in E&TC engineering. I'm well-versed in MERN stack, C++, DSA, OOPS, DBMS, and OS, and at the same time, I like to step outside of my comfort zone and learn new things.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsarode45](https://github.com/yashsarode45)
 
