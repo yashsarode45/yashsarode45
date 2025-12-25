@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsarode45](https://github.com/yashsarode45)
 
-- 💬 Ask me about **React, Rags-LLMS, LangChain-LangGraph, GSAP, Motion, Tailwind, Redux, Zustand, Express, MongoDB, C++**
+- 💬 Ask me about **React, RAGs-LLMS, LangChain-LangGraph, GSAP, Motion, Tailwind, Redux, Zustand, Express, MongoDB, C++**
 
 - 📫 How to reach me **yashsarode45@gmail.com**
 
